@@ -6,10 +6,10 @@ __autor__ = 'Simon Gravelle'
 
 def add_number(a, b):
     """Add two numbers
-    
+
     Description
     -----------
-    
+
     add_number is a Python function returning the sum
     of two numbers.
 
@@ -19,7 +19,7 @@ def add_number(a, b):
         The first number
     b : float
         The second number
-    
+
     Returns
     -------
     c : float
@@ -31,10 +31,10 @@ def add_number(a, b):
 
 def divide_number(a, b):
     r"""Divide two numbers
-    
+
     Description
     -----------
-    
+
     divide_number is a Python function dividing one number
     by another, and returning the fraction c:
 
@@ -60,4 +60,4 @@ def divide_number(a, b):
     """
     c = a / b
     return c
-    
+
