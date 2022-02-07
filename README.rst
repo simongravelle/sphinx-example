@@ -5,5 +5,5 @@ Python Sample Project
    :align: right
    :width: 200
 
-This is a Python sample project to illustrate the use of sphinx documentation. 
+This is a Python sample project illustrating the use of Sphinx documentation.
 
