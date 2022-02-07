@@ -1,7 +1,7 @@
 """
-A collection of python modules to be displayed by sphinx
+A collection of Python modules to be displayed by Sphinx
 """
-__autor__ = 'Simon Gravelle'
+__author__ = 'Simon Gravelle'
 
 
 def add_number(a, b):
@@ -9,7 +9,6 @@ def add_number(a, b):
 
     Description
     -----------
-
     add_number is a Python function returning the sum
     of two numbers.
 
@@ -34,7 +33,6 @@ def divide_number(a, b):
 
     Description
     -----------
-
     divide_number is a Python function dividing one number
     by another, and returning the fraction c:
 
