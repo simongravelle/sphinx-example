@@ -1,2 +1,1 @@
-from . import mymodule
-from .mymodule import *
+from .mymodule import add_number, divide_number
