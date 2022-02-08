@@ -10,7 +10,7 @@ Python-sample-project's documentation
    
    ./more_content
    ./even_more
-
+   ./module
 
 
 
