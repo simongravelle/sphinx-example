@@ -7,6 +7,6 @@ License
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
    :hidden:
 

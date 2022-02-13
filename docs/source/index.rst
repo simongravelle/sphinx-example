@@ -11,7 +11,7 @@ Sphinx documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
    :hidden:
    
    installation.rst
@@ -19,7 +19,7 @@ Sphinx documentation
    
 .. toctree::
    :maxdepth: 2
-   :caption: Modules:
+   :caption: Modules
    :hidden:
    
    module/add_number.rst
