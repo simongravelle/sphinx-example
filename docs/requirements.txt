@@ -1,3 +1,4 @@
 sphinx
 sphinx-press-theme
 nbsphinx
+ipykernel
