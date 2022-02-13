@@ -10,9 +10,9 @@ Description
 .. inclusion-description-start
 
 Minimal Github Python project to illustrate the use of Sphinx documentation and 
-Readthedocs. The `rendered`_ can be seen here. 
+Readthedocs. The `rendered page`_ can be seen here. 
 
-.. _rendered: https://python-sample-project.readthedocs.io/en/latest/index.html
+.. _rendered page: https://python-sample-project.readthedocs.io/en/latest/index.html
 
 
 .. inclusion-description-end
