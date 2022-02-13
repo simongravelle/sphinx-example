@@ -31,8 +31,23 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autodoc'
+    'sphinx.ext.autodoc',
+    'sphinx.ext.mathjax',
+    'nbsphinx'
 ]
+
+# Execute the notebooks manually in advance.
+nbsphinx_execute = 'never'
+nbsphinx_allow_errors = True
+
+# Check that the checkpoints from jupyter are included here:
+exclude_patterns = ['_build', '**.ipynb_checkpoints']
+
+# The suffix(es) of source filenames.
+# You can specify multiple suffix as a list of string:
+# note: do not add .ipynb when nbspinx is enabled, 
+# otherwise you get the "missing title" error
+source_suffix = ['.rst']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

@@ -27,8 +27,8 @@ See the `source files`_ on Github.
    :caption: Modules
    :hidden:
    
-   module/add_number.rst
-   module/divide_number.rst
+   modules/add_number.rst
+   modules/divide_number.rst
 
 
 
