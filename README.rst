@@ -9,7 +9,9 @@ Description
 
 .. inclusion-description-start
 
-Minimal Github Python project to illustrate the use of Sphinx documentation and Readthedocs.
+Minimal Github Python project to illustrate the use of Sphinx documentation and 
+Readthedocs. The [rendered](https://python-sample-project.readthedocs.io/en/latest/index.html)
+can be seen here. 
 
 .. inclusion-description-end
 
