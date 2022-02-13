@@ -25,3 +25,12 @@ Clone this repository, then type in a terminal :
 	pip install .
 	
 .. inclusion-installation-end
+
+License
+-------
+
+.. inclusion-license-start
+
+GNU GENERAL PUBLIC LICENSE
+
+.. inclusion-license-end

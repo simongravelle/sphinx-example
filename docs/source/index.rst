@@ -14,8 +14,16 @@ Sphinx documentation
    :caption: Contents:
    :hidden:
    
-   ./installation.rst
-   ./module.rst
+   installation.rst
+   license.rst
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Modules:
+   :hidden:
+   
+   module/add_number.rst
+   module/divide_number.rst
 
 
 
