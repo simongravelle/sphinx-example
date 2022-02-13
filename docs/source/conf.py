@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'python-sample-project'
+project = 'Sphinx Sample'
 copyright = '2022, Simon Gravelle'
 author = 'Simon Gravelle'
 
@@ -62,11 +62,8 @@ exclude_patterns = []
 
 # -- Options for HTML output -------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
-html_theme = 'press'
-
+# The theme to use for HTML and HTML Help pages.
+html_theme = 'alabaster'
 pygments_style = 'tango'
 
 # Add any paths that contain custom static files (such as style sheets) here,

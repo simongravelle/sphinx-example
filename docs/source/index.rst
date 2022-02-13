@@ -9,6 +9,8 @@ Sphinx documentation
    :start-after: inclusion-description-start
    :end-before: inclusion-description-end
    
+.. _link: modules/tutorials/add_number
+   
 See the `source files`_ on Github.
 
 .. _source files : https://github.com/simongravelle/sphinx-example
@@ -23,9 +25,6 @@ See the `source files`_ on Github.
    license.rst
    modules/tutorials/add_number
    add_number
-   
-   
-:ref:`add_number.ipynb`
    
 .. toctree::
    :maxdepth: 2
