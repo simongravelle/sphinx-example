@@ -9,7 +9,7 @@ Sphinx documentation
    :start-after: inclusion-description-start
    :end-before: inclusion-description-end
    
-See the `source files` on Github.
+See the `source files`_ on Github.
 
 .. _source files : https://github.com/simongravelle/sphinx-example
 
