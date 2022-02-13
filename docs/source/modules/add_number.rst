@@ -1,11 +1,12 @@
 Add number
 ==========
 
-.. automodule:: myproject.mymodule.add_number
-
 .. toctree::
-    :caption: Tutorial:
+    :maxdepth: 4
+    :glob:
 
-    tutorials/add_number.ipynb
+    tutorials/add_number
 
-.. include:: tutorials/add_number.ipynb
+
+
+

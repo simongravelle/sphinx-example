@@ -32,8 +32,10 @@ release = '0.0.1'
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
-    'sphinx.ext.mathjax',
-    'nbsphinx'
+    'nbsphinx',
+    #'sphinx.ext.mathjax',
+    #'sphinx_gallery.load_style',
+    #'sphinx_codeautolink',
 ]
 
 # Execute the notebooks manually in advance.

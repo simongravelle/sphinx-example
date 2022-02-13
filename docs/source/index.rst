@@ -21,6 +21,11 @@ See the `source files`_ on Github.
    
    installation.rst
    license.rst
+   modules/tutorials/add_number
+   add_number
+   
+   
+:ref:`add_number.ipynb`
    
 .. toctree::
    :maxdepth: 2
