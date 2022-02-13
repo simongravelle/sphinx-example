@@ -8,6 +8,11 @@ Sphinx documentation
 .. include:: ../../README.rst
    :start-after: inclusion-description-start
    :end-before: inclusion-description-end
+   
+See the `source files` on Github.
+
+.. _source files : https://github.com/simongravelle/sphinx-example
+
 
 .. toctree::
    :maxdepth: 2
