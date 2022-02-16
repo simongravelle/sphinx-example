@@ -33,13 +33,10 @@ release = '0.0.1'
 extensions = [
     'sphinx.ext.autodoc',
     'nbsphinx',
-    #'sphinx.ext.mathjax',
-    #'sphinx_gallery.load_style',
-    #'sphinx_codeautolink',
 ]
 
-# Execute the notebooks manually in advance.
-nbsphinx_execute = 'never'
+# Execute the notebooks
+nbsphinx_execute = 'always'
 nbsphinx_allow_errors = True
 
 # Check that the checkpoints from jupyter are included here:
@@ -63,7 +60,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.
-html_theme = 'alabaster'
+html_theme = 'furo'
 pygments_style = 'tango'
 
 # Add any paths that contain custom static files (such as style sheets) here,
