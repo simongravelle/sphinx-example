@@ -1,11 +1,9 @@
-"""
-A collection of Python modules to be displayed by Sphinx
-"""
+"""A collection of Python modules to be displayed by Sphinx."""
 __author__ = 'Simon Gravelle'
 
 
 def add_number(a, b):
-    """Add two numbers
+    """Add two numbers.
 
     Description
     -----------
@@ -29,7 +27,7 @@ def add_number(a, b):
 
 
 def divide_number(a, b):
-    r"""Divide two numbers
+    r"""Divide two numbers.
 
     Description
     -----------

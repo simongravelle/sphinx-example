@@ -1,12 +1,4 @@
 Add number
 ==========
 
-.. toctree::
-    :maxdepth: 4
-    :glob:
-
-    tutorials/add_number
-
-
-
-
+.. automodule:: myproject.mymodule.add_number
